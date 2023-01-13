@@ -14,3 +14,6 @@ Full-Stack Developer in training through Cubos Academy
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,mysql)](https://skillicons.dev)
+
+
+
