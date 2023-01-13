@@ -21,7 +21,7 @@ Full-Stack Developer in training through Cubos Academy
 *Contatos*
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/wendel-luiz-0b7204166/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/wendel-luiz-0b7204166/
 
 
 
