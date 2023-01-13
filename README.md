@@ -25,3 +25,7 @@ Full-Stack Developer in training through Cubos Academy
 
 
 
+[![Gmail](https://img.shields.io/badge/%20-gmail%20-red)](https://mailto:wendelsal299@gmail.com)
+
+
+
